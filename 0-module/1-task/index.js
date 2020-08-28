@@ -7,5 +7,5 @@
 function sum(m, n) {
    return m + n;
 }
-console.log(test(2,3));
+
 
