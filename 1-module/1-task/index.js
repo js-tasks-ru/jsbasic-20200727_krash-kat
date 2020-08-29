@@ -4,5 +4,6 @@
  * @returns {number}
  */
 function factorial(n) {
-  // ваш код...
+	
+	return result = (n == 0) ? 1 : (n != 1) ? n * factorial(n-1) : 1;
 }
